@@ -1,4 +1,5 @@
-[![Amethyst-szs' GitHub stats](https://github-stats-extended.vercel.app/api?username=Amethyst-szs&show_icons=true&theme=omni&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github.com/user-attachments/assets/10d1ab5a-850c-4eae-85ed-862e3da1825f" alt="Amethyst-szs Banner Artwork" height="195"/>  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Amethyst-szs&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Amethyst-szs&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Amethyst-szs&layout=compact&hide_title=true&langs_count=8&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Amethyst-szs&layout=compact&hide_title=true&langs_count=8&theme=catppuccin_mocha)  
+<img src="https://github.com/user-attachments/assets/10d1ab5a-850c-4eae-85ed-862e3da1825f" alt="Amethyst-szs Banner Artwork" height="360"/>  
 
 ## Super Mario Odyssey Projects
 [![MoonFlow](https://github-stats-extended.vercel.app/api/pin/?username=Amethyst-szs&repo=MoonFlow&show_icons=true&theme=omni&hide_border=true&description_lines_count=2)](https://github.com/Amethyst-szs/MoonFlow)
